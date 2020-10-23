@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MultiShotEnemyAnim
+  m_Controller: {fileID: 9100000, guid: ee498ff985202a14594b3d72ed22ef22, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6d2b3ce718ee19643ad96ccb51be535f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd26d93f2a6b474438a9ff3025e65e2b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7b3b8be9c19b5ab4fa5cc204d26e9a01, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ce91c0f90d4d16143b48bcdf50fdbef3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 91afed1cebbb6fb45b8adcb09b27255f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1de02c3f1ecfed744acbcfe312418708, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cd8844eee2464cb45a2be7090a5486ab, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8b9954ae5856de64082d62fdadaef4ce, type: 2}

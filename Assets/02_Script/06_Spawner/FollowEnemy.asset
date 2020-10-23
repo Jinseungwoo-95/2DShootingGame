@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b9230631e6fa4143ac9da4e8bdbe2c8, type: 3}
+  m_Name: FollowEnemy
+  m_EditorClassIdentifier: 
+  itemToSpawn: {fileID: 9054057026450954045, guid: fc955a4c8ba0be3478af0702c11b94e6,
+    type: 3}
+  minSpawn: 2
+  maxSpawn: 4

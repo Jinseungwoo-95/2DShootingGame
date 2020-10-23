@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - room
+  - EnemyBullet
+  - Obstacle
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - EnemyBullet
+  - Player
+  - Enemy
+  - PlayerCube
+  - PlayerBullet
+  - Room
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3426211401
+    locked: 0
+  - name: background1.1
+    uniqueID: 3451169439
+    locked: 0
+  - name: background2
+    uniqueID: 3490362703
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 3375773139
+    locked: 0
+  - name: Door
+    uniqueID: 2880239881
+    locked: 0
+  - name: Wall2
+    uniqueID: 1218976061
+    locked: 0

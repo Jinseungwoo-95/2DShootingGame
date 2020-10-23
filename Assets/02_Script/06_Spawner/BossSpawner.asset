@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6496d2c7d2666134ea0dc1363dff399f, type: 3}
+  m_Name: BossSpawner
+  m_EditorClassIdentifier: 
+  BossSpawn:
+  - {fileID: 6721724934154226699, guid: 5b8d662c4b22f5d479cf6cee71a30368, type: 3}
+  - {fileID: 5156582235620781341, guid: 9689c4f6d555e9f45a1bff3ac60fb5bb, type: 3}
+  - {fileID: 2843800003162780130, guid: e92aaace6664ef447a84db76e3946513, type: 3}
+  minSpawn: 1
+  maxSpawn: 1
